@@ -1,6 +1,4 @@
-# PayNow – Secure Peer-to-Peer Transactions  
-
-🚀 **Live Demo:** [Try it here](https://dashpay.netlify.app/)  
+# PayNow – Secure Peer-to-Peer Transactions    
 
 A simple and secure peer-to-peer payment system that allows users to send and receive money instantly while keeping transaction history organized.  
 
