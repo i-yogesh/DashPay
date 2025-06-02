@@ -1,4 +1,4 @@
-# DashPay – Secure Peer-to-Peer Transactions  
+# PayNow – Secure Peer-to-Peer Transactions  
 
 🚀 **Live Demo:** [Try it here](https://dashpay.netlify.app/)  
 
